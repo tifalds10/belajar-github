@@ -1,0 +1,32 @@
+
+
+/* ini adalah komenter */
+
+h1 {
+    color: hotpink;
+    background-color: rgba(255, 205, 243, 0.466);
+}
+
+p {
+    color: violet
+}
+
+#rosybrown {
+    color: rosybrown;
+}
+
+.palevioletred {
+    color: palevioletred;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+.purple {
+    color: purple;
+}
+
+.plum {
+    color: plum
+}
